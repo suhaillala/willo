@@ -1,0 +1,5 @@
+WorldSize,6,10,14
+WaterProb,0.2,0.28,0.34
+LizardProb,0.1,0.2,0.26
+MaceProb,0.1,0.2,0.3
+PowerUpProb,0.3,0.2,0.1
